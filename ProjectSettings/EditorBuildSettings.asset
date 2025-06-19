@@ -6,9 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Test Scenes/1. Splash Screen Page.unity
+    guid: b739837ebb564c146b44fa64e3a38beb
+  - enabled: 1
+    path: Assets/Test Scenes/2. Login Screen.unity
+    guid: eb68077ae523d6049abe4ddfb0339d03
+  - enabled: 1
+    path: Assets/Test Scenes/3. User Details Screen.unity
+    guid: 2703a9b7bf965af4eac66f9ef59ba3e7
+  - enabled: 1
     path: Assets/Test Scenes/4. Home Screen.unity
     guid: bfa700208740cea4c87ac274d7b92261
   - enabled: 1
+    path: Assets/Test Scenes/5. Settings Page.unity
+    guid: fef69426a8a6cb04cac7303c0ae76e93
+  - enabled: 1
+    path: Assets/Test Scenes/6. Notifications Page.unity
+    guid: 47fbaccd0a62d4547ad00b6c5d420ddf
+  - enabled: 1
+    path: Assets/Test Scenes/7. Profile Page.unity
+    guid: 9d2bf8075c808e14ba4d8bdf8b36c048
+  - enabled: 1
     path: Assets/Test Scenes/8.PlayScene.unity
     guid: 6e2e387cd98672e46bafe45c43404fc7
+  - enabled: 1
+    path: Assets/Test Scenes/9. Score Page.unity
+    guid: 57fa0de4f65afb64e936abb1aae301b5
+  - enabled: 1
+    path: Assets/Test Scenes/10. History Page.unity
+    guid: 09b5202b0d3000747b1d1455e8796552
+  - enabled: 1
+    path: Assets/Test Scenes/11. Leaderboard Page.unity
+    guid: a332122d044e09d48b4dfbc72ff3c866
   m_configObjects: {}
